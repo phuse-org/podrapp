@@ -2,6 +2,7 @@
 This package contains functions and R Shiny app to allow you easily connect 
 to PODR database and explore datasets related to CSS 2020 Hackathon.
 To find out more about PODR, please go to [PODR Github](https://github.com/phuse-org/PODR).
+The Shiny app is hosted at  https://phuse-org.shinyapps.io/01_podr/. 
 
 # How to Install this package
 
@@ -9,7 +10,7 @@ Please follow this instruction:
 
     install.packages("devtools")
     library(devtools)
-    install_github(”TuCai/podr")
+    install_github(”TuCai/podr") or install_github(”phuse-org/podrapp") 
 
 # How to use it
 
